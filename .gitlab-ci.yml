@@ -1,7 +1,6 @@
 pull_changes: 
   script: 
-    - 'cd crud-demo'
-    - 'touch nothing.txt'
+    - 'pwd'
   tags: 
     - ci
 
