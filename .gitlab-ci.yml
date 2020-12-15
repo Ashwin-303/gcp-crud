@@ -1,7 +1,7 @@
 pull_changes: 
   script: 
     - 'pwd'
-    - 'cd /home/ashwinkumar202'
+    - 'cd /home/ashwinkumar202/gcp-crud'
     - 'pwd'
     - 'git pull https://github.com/Ashwin-303/gcp-crud test'
   tags: 
