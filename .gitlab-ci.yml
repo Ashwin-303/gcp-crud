@@ -1,7 +1,7 @@
 pull_changes: 
   script: 
     - 'pwd'
-    - 'git pull origin test'
+    - 'git pull https://github.com/Ashwin-303/gcp-crud test'
   tags: 
     - ci
 
