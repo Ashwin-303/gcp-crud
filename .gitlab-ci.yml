@@ -1,6 +1,7 @@
 pull_changes: 
   script: 
     - 'pwd'
+    - 'sleep 60'
     - 'git pull https://github.com/Ashwin-303/gcp-crud test'
   tags: 
     - ci
