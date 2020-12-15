@@ -1,6 +1,7 @@
 pull_changes: 
   script: 
-    - 'pwd'
+    - 'ps aux | grep node'
+    - 'killall node' 
   tags: 
     - ci
 
